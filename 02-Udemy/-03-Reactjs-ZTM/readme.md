@@ -3,10 +3,10 @@
 
 ### Monsters Rolodex
 - [Project-code](./Projects/Monsters-Rolodex)
-- [Live Demo]()
+- [Live Demo](https://monsters-rolodex-amira.netlify.app/)
 ### CRWN Clothing Store
 - [Project-code](./Projects/CRWN-Clothing-Store)
-- [Live Demo](https://monsters-rolodex-amira.netlify.app/)
+- [Live Demo]()
 ---
 ## Code
 [Code](Code)
