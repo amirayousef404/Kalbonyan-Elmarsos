@@ -14,4 +14,4 @@
 ---
 [Course-Link](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)<br>
 
-![Certificate](https://www.udemy.com/certificate/UC-e2c65828-5ed3-41e7-a7bc-48358b17efbb/)
+![Certificate]([https://www.udemy.com/certificate/UC-e2c65828-5ed3-41e7-a7bc-48358b17efbb/](https://udemy-certificate.s3.amazonaws.com/image/UC-e2c65828-5ed3-41e7-a7bc-48358b17efbb.jpg))
