@@ -45,7 +45,7 @@
 
 <span id="MERN"></span>
 # MERN Stack
-![75%](https://progress-bar.dev/50/?title=Done)
+![75%](https://progress-bar.dev/75/?title=Done)
 <br />
 ## JavaScript - Select one of these 2 courses to complete
 - [x]  `Done` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](./02-Udemy/-02-Js-Andrew)
